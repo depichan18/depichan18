@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a first-year Mathematics student at Institut Teknologi Sepuluh Nopember with an interest in becoming a Quantitative Researcher, Data Analyst, or OR analyst. I also create math problems for Elementary School in National Olympiads organized by my university, which strengthens my analytical thinking and problem-solving skills.
+I'm a first-year Mathematics student at Institut Teknologi Sepuluh Nopember with an interest in becoming a Quantitative Researcher, Data Analyst, or Operation Research Analyst. I also create math problems for Elementary School in National Olympiads organized by my university, which strengthens my analytical thinking and problem-solving skills.
 
 
 ## 🌐 Socials:

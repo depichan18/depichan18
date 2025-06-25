@@ -71,6 +71,6 @@
 
 **Catatan:**
 - Untuk membaca file **.pdf** di VS Code, instal ekstensi [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf).
-- Untuk menjalankan file **.tex** (LaTeX), instal LaTeX dan ekstensi [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) di VS Code.
+- Untuk menjalankan file **.tex** (LaTeX), instal [LaTeX](https://tug.org/texlive/acquire-netinstall.html) dan ekstensi [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) di VS Code.
 
 ---

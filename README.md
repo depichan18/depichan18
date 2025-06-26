@@ -11,22 +11,22 @@
 
 ## Cara Mengakses "Soal Evaluasi dan Pembahasan"
 
-1. **Buka Profil GitHub Saya**
+**1. Buka Profil GitHub Saya**
    - Kunjungi profil GitHub [depichan18](https://github.com/depichan18).
    - Klik tab **Repositories** (sebelah Overview).
 
-2. **Cari Repositori**
+**2. Cari Repositori**
    - Temukan repositori bernama:
      - [`mata-kuliah-departemen`](https://github.com/depichan18/mata-kuliah-departemen.git)
      - [`mata-kuliah-SKPB`](https://github.com/depichan18/mata-kuliah-SKPB.git)
    - Anda bisa juga langsung klik pada nama repositori di atas.
 
-3. **Pilih Soal Evaluasi**
+**3. Pilih Soal Evaluasi**
    - Setelah masuk ke repositori, pilih folder soal evaluasi berdasarkan semester (semester 1, semester 2, dst).
    - Di dalam folder semester, pilih mata kuliah yang Anda cari.
    - Tersedia beberapa evaluasi seperti **Kuis 1**, **ETS**, **Kuis 2**, **EAS**, dsb. Silakan pilih sesuai kebutuhan.
 
-4. **Buka atau Unduh File**
+**4. Buka atau Unduh File**
    - Buka folder evaluasi, lalu klik file dengan ekstensi **.pdf** untuk membukanya di GitHub.
    - Untuk mengunduh, klik tombol **Download** di kanan atas halaman pratinjau file.
 

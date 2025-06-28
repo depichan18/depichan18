@@ -9,7 +9,7 @@
 
 ---
 
-## Cara Mengakses "Soal Evaluasi dan Pembahasan"
+## Cara Mengakses Soal Evaluasi dan Pembahasan
 
 **1. Buka Profil GitHub Saya**
    - Kunjungi profil GitHub [depichan18](https://github.com/depichan18).

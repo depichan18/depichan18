@@ -73,6 +73,7 @@
 3. **Clone repositori dengan perintah ini**:
 ```bash
 git clone https://github.com/depichan18/mata-kuliah-departemen.git
+```
 
 ✨ Tinggal buka di VS Code dan tadaa~ semua file ada di komputermu!
 
